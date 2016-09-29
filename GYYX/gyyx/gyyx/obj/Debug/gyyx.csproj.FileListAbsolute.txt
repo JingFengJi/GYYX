@@ -1,0 +1,6 @@
+c:\users\zhchding\documents\visual studio 2015\Projects\GYYX\gyyx\gyyx\bin\Debug\gyyx.exe.config
+c:\users\zhchding\documents\visual studio 2015\Projects\GYYX\gyyx\gyyx\bin\Debug\gyyx.exe
+c:\users\zhchding\documents\visual studio 2015\Projects\GYYX\gyyx\gyyx\bin\Debug\gyyx.pdb
+c:\users\zhchding\documents\visual studio 2015\Projects\GYYX\gyyx\gyyx\obj\Debug\gyyx.csprojResolveAssemblyReference.cache
+c:\users\zhchding\documents\visual studio 2015\Projects\GYYX\gyyx\gyyx\obj\Debug\gyyx.exe
+c:\users\zhchding\documents\visual studio 2015\Projects\GYYX\gyyx\gyyx\obj\Debug\gyyx.pdb
